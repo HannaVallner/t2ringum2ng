@@ -1,4 +1,4 @@
-# t2ringum2ng
+# täringumäng
 
 Autorid: Reena Seeba, Hanna Vallner
 
